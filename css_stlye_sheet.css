@@ -1,6 +1,7 @@
 body {
     background-color: DeepPink;
     background-image: url("sky over water from web.jpg");
+    background-repeat: no-repeat;
     color:chartreuse;
     margin-left: 20px;
 }
